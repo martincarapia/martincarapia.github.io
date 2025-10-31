@@ -1,4 +1,4 @@
-baseURL = 'https://martincarapia.github.io/PortfolioSite/'
+baseURL = 'https://martincarapia.github.io/'
 languageCode = 'en-us'
 title = 'My Portfolio Site'
 theme = 'basic'
