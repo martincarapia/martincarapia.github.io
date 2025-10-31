@@ -27,7 +27,7 @@ Menus:
 params:
   title: "Martin Mizner Carapia"
   description: "Martin Mizner Carapia - Software Developer Portfolio"
-  favicon: "/fav.png"
+  favicon: "/favicon.ico"
 
   useBootstrapCDN: false
   mathjax: false
@@ -80,8 +80,7 @@ params:
           url: https://github.com/martincarapia
         - icon: fab fa-linkedin
           url: https://linkedin.com/in/mcarapia
-      customIcons:
-        - icon: /fav.png
+        - icon: fas fa-envelope
           url: "mailto:martin.carapia@outlook.com"
 
   # About
@@ -340,20 +339,7 @@ params:
           - icon: fa fa-external-link-alt
             url: "https://ai.bluehive.com/"
 
-  #Contact
-  contact:
-    enable: true
-    content: My inbox is always open. Whether you have a question about a project, want to discuss opportunities, or just want to say hi, I'll try my best to get back to you!
-    btnName: Get in Touch
-    btnLink: mailto:martin.carapia@outlook.com
-
   footer:
-    recentPosts:
-      path: "blogs"
-      count: 3
-      title: Recent Posts
-      enable: false
-      disableFeaturedImage: false
     socialNetworks:
       github: https://github.com/martincarapia
       linkedin: https://linkedin.com/in/mcarapia
