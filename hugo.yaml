@@ -128,7 +128,7 @@ params:
     enable: true
     items:
       - company: "Medical Informatics Engineering"
-        companyUrl: "#"
+        companyUrl: "https://mieweb.org/"
         jobs:
           - name: "Software Developer (Former Intern)"
             date: "May 2024 - Present"
@@ -183,7 +183,7 @@ params:
                   tooltip: Current Role
 
       - company: "Snider Robotics"
-        companyUrl: "#"
+        companyUrl: "https://snidercs.org/"
         jobs:
           - name: "Lead Software Developer"
             date: "January 2024 - April 2025"
@@ -209,7 +209,7 @@ params:
                   tooltip: Leadership Role
 
       - company: "Anthis Career Academy"
-        companyUrl: "#"
+        companyUrl: "https://careeracademy.fortwayneschools.org/"
         jobs:
           - name: "Software Developer"
             date: "August 2023 - May 2025"
@@ -230,10 +230,10 @@ params:
                   tooltip: Collaborative Team Projects
 
       - company: "Papa Johns"
-        companyUrl: "#"
+        companyUrl: "https://jobs.papajohns.com/"
         jobs:
           - name: "Shift Manager"
-            date: "April 2023 - August 2024 | May 2025 - Present"
+            date: "April 2023 - August 2024 | May 2025 - Oct 2025"
             content: |
               Leadership role managing operations in high-volume customer service environment, developing management and coordination skills.
 
@@ -277,7 +277,7 @@ params:
       - title: "High School Academic and Technical Honors"
         school:
           name: "R. Nelson Snider High School, Fort Wayne"
-          url: "#"
+          url: "https://snider.fortwayneschools.org/"
         date: "August 2021 - May 2025"
         content: |-
           Graduated with Academic and Technical Honors, demonstrating excellence in both academic coursework and technical skills development.
