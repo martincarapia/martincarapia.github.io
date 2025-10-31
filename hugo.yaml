@@ -325,7 +325,7 @@ params:
           - icon: fa fa-external-link-alt
             url: "https://kushview.net"
 
-      - title: AI Platform - Blue Hive
+      - title: Ozwell - Bluehive AI Platform
         content: AI-powered web application built with Meteor framework integrated with OpenAI services, demonstrating full-stack development with modern AI integration.
         image: /images/projects/ozwell.png
         featured:
