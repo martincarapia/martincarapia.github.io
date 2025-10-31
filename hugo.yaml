@@ -293,10 +293,11 @@ params:
   # projects
   projects:
     enable: true
+    title: "Contributions"
     items:
       - title: Snider Computer Science Program Website
         content: Developed and deployed a Hugo static website for a computer science program. Wrote reusable templates and optimized for performance with modern web development practices.
-        image: /images/projects/profile.png
+        image: /images/projects/snidercs.png
         featured:
           name: Visit Site
           link: "https://snidercs.org"
@@ -311,37 +312,22 @@ params:
 
       - title: Kushview Corporate Website
         content: Hugo-based static website development for audio technology company, focusing on responsive design and performance optimization for corporate presence.
-        image: /images/projects/converter.jpg
+        image: /images/projects/kushview.png
         featured:
           name: View Site
           link: "https://kushview.net"
         badges:
-          - "Hugo"
-          - "Static Site"
+          - "WordPress"
+          - "Shop"
           - "Responsive Design"
           - "Corporate Web"
         links:
           - icon: fa fa-external-link-alt
             url: "https://kushview.net"
 
-      - title: Icon Pro Audio Website
-        content: WordPress-based website development for professional audio equipment company, featuring product showcases and business information management.
-        image: /images/projects/profile2.jpg
-        featured:
-          name: Visit Site
-          link: "https://iconproaudio.com"
-        badges:
-          - "WordPress"
-          - "PHP"
-          - "E-commerce"
-          - "Product Management"
-        links:
-          - icon: fa fa-external-link-alt
-            url: "https://iconproaudio.com"
-
       - title: AI Platform - Blue Hive
         content: AI-powered web application built with Meteor framework integrated with OpenAI services, demonstrating full-stack development with modern AI integration.
-        image: /images/projects/profile.png
+        image: /images/projects/ozwell.png
         featured:
           name: View Project
           link: "https://ai.bluehive.com/"
@@ -353,21 +339,6 @@ params:
         links:
           - icon: fa fa-external-link-alt
             url: "https://ai.bluehive.com/"
-
-      - title: Open Source Contributions
-        content: Active contributor to various open source projects on GitHub, demonstrating collaborative development skills and community involvement in software development.
-        image: /images/projects/converter.jpg
-        featured:
-          name: View GitHub
-          link: "https://github.com/martincarapia"
-        badges:
-          - "Open Source"
-          - "Git"
-          - "Collaboration"
-          - "Community"
-        links:
-          - icon: fab fa-github
-            url: "https://github.com/martincarapia"
 
   #Contact
   contact:
