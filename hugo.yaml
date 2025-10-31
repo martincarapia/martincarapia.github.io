@@ -74,9 +74,9 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Martin Mizner Carapia."
-    subtitle: "Remote Software Developer | Python • JavaScript • SQL | Automation & QA"
+    subtitle: "Remote Software Engineer"
     content: "Software developer with experience in web development, automation, and testing. Proven ability to deliver scalable code, resolve bugs, and improve user experience using Python, JavaScript, SQL, and modern frameworks. Seeking remote opportunities to contribute to high-impact development teams."
-    image: /images/hero.svg
+    image: /images/prophoto.jpg
     bottomImage:
       enable: true
     button:
@@ -99,7 +99,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "/images/me.jpeg"
     content: |-
       Software developer with experience in web development, automation, and testing. Proven ability to deliver scalable code, resolve bugs, and improve user experience using Python, JavaScript, SQL, and modern frameworks. 
 
@@ -291,24 +291,15 @@ params:
   achievements:
     enable: true
     items:
-      - title: Certified Python Entry Level Programmer
-        content: Achieved Python Institute certification demonstrating fundamental programming skills and Python proficiency.
-        image: /images/achievement.jpg
       - title: Certified Associate in Python Programming
         content: Advanced Python certification showcasing intermediate to advanced Python programming capabilities.
-        image: /images/achievement.jpg
-      - title: Rookie of The Year - Indiana State Champs FIRST Robotics
-        content: Recognized for outstanding performance and contribution as a first-year participant in FIRST Robotics Competition.
-        image: /images/achievement.jpg
+        image: /images/achievements/cert.png
       - title: 1st Place SkillsUSA State Competition - Computer Programming
         content: Won first place in state-level SkillsUSA competition for computer programming, qualifying for national competition.
-        image: /images/achievement.jpg
-      - title: SkillsUSA National Competition Qualifier
-        content: Qualified for national-level SkillsUSA competition in computer programming after winning state championship.
-        image: /images/achievement.jpg
+        image: /images/achievements/skillswinner.jpeg
       - title: Indiana State Championship - FIRST Robotics
         content: Led software development team to state championship victory in competitive robotics competition.
-        image: /images/achievement.jpg
+        image: /images/achievements/state.JPG
 
   # projects
   projects:
