@@ -1,8 +1,9 @@
-+++
-title = 'Welcome to My Portfolio'
-date = 2025-10-30T22:39:07-04:00
-draft = false
-+++
+---
+title: "Welcome to My Portfolio"
+date: 2025-10-30T22:39:07-04:00
+draft: false
+tags: []
+---
 
 This is the homepage of my portfolio website built with Hugo.
 

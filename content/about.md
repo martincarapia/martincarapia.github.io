@@ -1,12 +1,13 @@
-+++
-title = 'About Me'
-date = 2025-10-30T22:39:10-04:00
-draft = false
-+++
+---
+title: "About Me"
+date: 2025-10-30T22:39:10-04:00
+draft: false
+tags: []
+---
 
 ## Who I Am
 
-Hello! I'm Richard, a passionate developer with experience in web development and technology.
+Hello! I'm Martin, a passionate developer with experience in web development and technology.
 
 ## Skills
 
