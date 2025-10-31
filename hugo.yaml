@@ -74,8 +74,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Martin Mizner Carapia."
-    subtitle: "Software Developer & Engineer"
-    content: "A dedicated software developer with expertise in full-stack development, cloud technologies, and modern web frameworks. I'm passionate about creating efficient, scalable solutions and continuously learning new technologies."
+    subtitle: "Remote Software Developer | Python • JavaScript • SQL | Automation & QA"
+    content: "Software developer with experience in web development, automation, and testing. Proven ability to deliver scalable code, resolve bugs, and improve user experience using Python, JavaScript, SQL, and modern frameworks. Seeking remote opportunities to contribute to high-impact development teams."
     image: /images/hero.svg
     bottomImage:
       enable: true
@@ -101,84 +101,155 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a passionate software developer with extensive experience in full-stack development, cloud technologies, and modern web frameworks. With a strong foundation in computer science and a commitment to continuous learning, I excel at creating efficient, scalable solutions that solve real-world problems.
+      Software developer with experience in web development, automation, and testing. Proven ability to deliver scalable code, resolve bugs, and improve user experience using Python, JavaScript, SQL, and modern frameworks. 
 
-      My expertise spans across various technologies and platforms, from front-end development with modern JavaScript frameworks to back-end services and cloud infrastructure. I'm always eager to take on new challenges and contribute to innovative projects.
+      Currently working as a Software Developer at Medical Informatics Engineering and Software Engineer at Kushview, contributing to diverse projects from healthcare systems to responsive web applications. My experience spans from robotics programming with C++ to full-stack web development with modern frameworks like Hugo and TypeScript.
+
+      I thrive in collaborative environments, whether leading development teams in high-pressure robotics competitions or working with distributed teams to deliver features across multiple environments.
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "Here are the technologies I work with:"
       items:
-        - "JavaScript"
         - "Python"
-        - "React"
-        - "Node.js"
-        - "AWS"
-        - "Docker"
-        - "TypeScript"
+        - "JavaScript"
+        - "TypeScript" 
+        - "C++"
+        - "C"
+        - "SQL"
+        - "Hugo"
+        - "HTML/CSS"
+        - "Linux"
         - "Git"
+        - "WordPress"
+        - "REST APIs"
 
   # Experience
   experience:
     enable: true
     items:
-      - company: "Tech Solutions Inc."
+      - company: "Medical Informatics Engineering"
         companyUrl: "#"
         jobs:
-          - name: "Senior Full-Stack Developer"
-            date: "Mar 2023 - present"
-            content: "Leading development of enterprise web applications using modern JavaScript frameworks and cloud technologies. Architecting scalable solutions and mentoring junior developers."
+          - name: "Software Developer (Former Intern)"
+            date: "May 2024 - Present"
+            content: |
+              Started as Software Development Intern and promoted to Software Developer. Focus on healthcare software systems with responsibilities spanning multiple programming languages and technologies.
+
+              - Debug and fix software issues in C, JavaScript, and SQL
+              - Create and update SQL-based reports based on client specifications  
+              - Perform code reviews and contribute to weekly hotfix assessments
+              - Build and maintain automated test cases to improve code reliability
+              - Track and manage development tasks using internal ticketing system
+              - Work within Linux environments (Fedora, RedHat, CentOS)
+              - Communicate with internal teams to ensure timely resolution of issues
             info:
-              content: Working as a senior full-stack developer
+              content: Healthcare software development - Fort Wayne (Hybrid)
             featuredItems:
               fontAwesomeIcons:
-                - icon: fa-brands fa-react
-                  url: https://react.dev/
-                  tooltip: React Development
-                - icon: fa-brands fa-aws
-                  url: https://aws.amazon.com
-                  tooltip: AWS Cloud Services
+                - icon: fa-solid fa-code
+                  tooltip: C/JavaScript/SQL Development
+                - icon: fa-brands fa-linux
+                  tooltip: Linux Development Environment
               customIcons:
                 - icon: /fav.png
                   url: "#"
                   tooltip: Current Role
-          - name: "Full-Stack Developer"
-            date: "Jun 2021 - Mar 2023"
-            content: "Developed and maintained multiple web applications using React, Node.js, and various databases. Collaborated with cross-functional teams to deliver high-quality software solutions."
 
-      - company: "Digital Innovations LLC"
+      - company: "Kushview"
+        companyUrl: "https://kushview.net"
+        jobs:
+          - name: "Software Engineer"
+            date: "February 2025 - Present"
+            content: |
+              Developing and maintaining web applications with focus on performance and user experience optimization.
+
+              - Develop and maintain responsive web applications using Hugo, JavaScript, and TypeScript
+              - Collaborate with distributed teams to deliver features across multiple environments
+              - Improve user experience through performance tuning and iterative UI enhancements
+              - Integrate client feedback into deployments for higher satisfaction and product alignment
+              - Ensure smooth CI/CD workflows and contribute to continuous product improvement
+            info:
+              content: Web development and performance optimization - Fort Wayne (Hybrid)
+            featuredItems:
+              fontAwesomeIcons:
+                - icon: fa-brands fa-js-square
+                  url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+                  tooltip: JavaScript/TypeScript Development
+                - icon: fa-solid fa-globe
+                  tooltip: Web Development
+              customIcons:
+                - icon: /fav.png
+                  url: "#"
+                  tooltip: Current Role
+
+      - company: "Snider Robotics"
+        companyUrl: "#"
+        jobs:
+          - name: "Lead Software Developer"
+            date: "January 2024 - April 2025"
+            content: |
+              Led software development for competitive robotics team, achieving state championship performance.
+
+              - Led software development for competition robotics using C++ with focus on real-time motor control and sensor integration
+              - Programmed low-end microcontroller for autonomous and operator-controlled tasks
+              - Collaborated with engineering, mechanical, and electrical sub-teams for system integration
+              - Developed and debugged code in high-pressure, time-sensitive competition environments
+              - Contributed to successful competition performance including state championship title
+            info:
+              content: Robotics software development and team leadership - Fort Wayne
+            featuredItems:
+              fontAwesomeIcons:
+                - icon: fa-solid fa-robot
+                  tooltip: Robotics Programming
+                - icon: fa-solid fa-trophy
+                  tooltip: State Championship Winners
+              customIcons:
+                - icon: /fav.png
+                  url: "#"
+                  tooltip: Leadership Role
+
+      - company: "Anthis Career Academy"
         companyUrl: "#"
         jobs:
           - name: "Software Developer"
-            date: "Jan 2020 - May 2021"
-            info:
-              content: Focused on front-end development and user experience
+            date: "August 2023 - May 2025"
             content: |
-              Specialized in creating responsive web applications and improving user interfaces. Worked closely with designers and backend developers to deliver seamless user experiences.
+              Comprehensive software development education with hands-on project experience and collaborative team work.
 
-              - Developed responsive web applications using modern JavaScript frameworks
-              - Implemented RESTful APIs and integrated with various third-party services
-              - Optimized application performance and improved code quality
+              - Gained hands-on experience through project-based learning and collaborative group work
+              - Developed applications in self-paced, deadline-driven environment focusing on real-world problem solving
+              - Worked in agile-style teams to plan, build, and test software projects from concept to completion
+              - Strengthened technical communication, peer code review, and version control skills
+            info:
+              content: Educational program with practical development experience - Fort Wayne
+            featuredItems:
+              fontAwesomeIcons:
+                - icon: fa-solid fa-graduation-cap
+                  tooltip: Educational Development Program
+                - icon: fa-solid fa-users
+                  tooltip: Collaborative Team Projects
 
-      - company: "StartupXYZ"
+      - company: "Papa Johns"
         companyUrl: "#"
-        jobs: 
-        - name: "Junior Software Developer"
-          date: "Aug 2018 - Dec 2019"
-          featuredItems:
-            fontAwesomeIcons:
-              - icon: fa-brands fa-js-square
-                url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-              - icon: fa-brands fa-python
-                url: https://python.org
-            customIcons:
-              - icon: /fav.png
-                url: "#"
-          content: |
-            Started my professional journey in software development, learning and contributing to various projects. Gained experience in full-stack development and agile methodologies.
+        jobs:
+          - name: "Shift Manager"
+            date: "April 2023 - August 2024 | May 2025 - Present"
+            content: |
+              Leadership role managing operations in high-volume customer service environment, developing management and coordination skills.
 
-            - Contributed to front-end and back-end development projects
-            - Learned modern development practices and version control
-            - Participated in code reviews and team collaboration
+              - Lead solo shifts and coordinate in-store operations in high-volume, customer-facing environment
+              - Train and supervise team members to meet company standards for quality, efficiency, and service  
+              - Ensure adherence to food prep procedures, sanitation protocols, and shift readiness
+              - Manage phone orders, customer issues, and delivery coordination to maintain satisfaction and speed
+              - Support general manager in achieving team performance goals
+            info:
+              content: Operations management and team leadership - Fort Wayne
+            featuredItems:
+              fontAwesomeIcons:
+                - icon: fa-solid fa-users-cog
+                  tooltip: Team Management
+                - icon: fa-solid fa-clock
+                  tooltip: Operations Coordination
 
   # Education
   education:
@@ -220,69 +291,103 @@ params:
   achievements:
     enable: true
     items:
-      - title: AWS Certified Developer
-        content: Achieved AWS Certified Developer - Associate certification, demonstrating proficiency in developing applications on AWS.
+      - title: Certified Python Entry Level Programmer
+        content: Achieved Python Institute certification demonstrating fundamental programming skills and Python proficiency.
         image: /images/achievement.jpg
-      - title: Hackathon Winner
-        content: Won first place in local tech hackathon for developing an innovative web application in 48 hours.
+      - title: Certified Associate in Python Programming
+        content: Advanced Python certification showcasing intermediate to advanced Python programming capabilities.
         image: /images/achievement.jpg
-      - title: Open Source Contributor
-        content: Active contributor to various open source projects with multiple merged pull requests.
-        url: "https://github.com"
+      - title: Rookie of The Year - Indiana State Champs FIRST Robotics
+        content: Recognized for outstanding performance and contribution as a first-year participant in FIRST Robotics Competition.
         image: /images/achievement.jpg
-      - title: Tech Talk Speaker
-        content: Delivered presentations on modern web development practices at local developer meetups.
-      - title: Mentorship Program
-        content: Mentored junior developers and coding bootcamp students in their career development.
+      - title: 1st Place SkillsUSA State Competition - Computer Programming
+        content: Won first place in state-level SkillsUSA competition for computer programming, qualifying for national competition.
+        image: /images/achievement.jpg
+      - title: SkillsUSA National Competition Qualifier
+        content: Qualified for national-level SkillsUSA competition in computer programming after winning state championship.
+        image: /images/achievement.jpg
+      - title: Indiana State Championship - FIRST Robotics
+        content: Led software development team to state championship victory in competitive robotics competition.
+        image: /images/achievement.jpg
 
   # projects
   projects:
     enable: true
     items:
-      - title: E-Commerce Platform
-        content: A full-stack e-commerce platform built with React and Node.js, featuring user authentication, shopping cart, and payment processing.
+      - title: Snider Computer Science Program Website
+        content: Developed and deployed a Hugo static website for a computer science program. Wrote reusable templates and optimized for performance with modern web development practices.
         image: /images/projects/profile.png
         featured:
-          name: Live Demo
-          link: "#"
+          name: Visit Site
+          link: "https://snidercs.org"
         badges:
-          - "React"
-          - "Node.js"
-          - "MongoDB"
-          - "Stripe API"
+          - "Hugo"
+          - "HTML/CSS"
+          - "Static Site Generation"
+          - "Performance Optimization"
         links:
-          - icon: fab fa-github
-            url: "#"
           - icon: fa fa-external-link-alt
-            url: "#"
+            url: "https://snidercs.org"
 
-      - title: Task Management App
-        content: A collaborative task management application with real-time updates, file sharing, and team collaboration features built using React and Firebase.
+      - title: Kushview Corporate Website
+        content: Hugo-based static website development for audio technology company, focusing on responsive design and performance optimization for corporate presence.
         image: /images/projects/converter.jpg
         featured:
-          name: View Project
-          link: "#"
+          name: View Site
+          link: "https://kushview.net"
         badges:
-          - "React"
-          - "Firebase"
-          - "Material-UI"
+          - "Hugo"
+          - "Static Site"
+          - "Responsive Design"
+          - "Corporate Web"
         links:
-          - icon: fab fa-github
-            url: "#"
+          - icon: fa fa-external-link-alt
+            url: "https://kushview.net"
 
-      - title: Weather Dashboard
-        content: A responsive weather dashboard that displays current conditions and forecasts using multiple weather APIs with geolocation support.
+      - title: Icon Pro Audio Website
+        content: WordPress-based website development for professional audio equipment company, featuring product showcases and business information management.
         image: /images/projects/profile2.jpg
         featured:
-          name: Try It
-          link: "#"
+          name: Visit Site
+          link: "https://iconproaudio.com"
         badges:
-          - "JavaScript"
-          - "CSS3"
-          - "Weather API"
+          - "WordPress"
+          - "PHP"
+          - "E-commerce"
+          - "Product Management"
+        links:
+          - icon: fa fa-external-link-alt
+            url: "https://iconproaudio.com"
+
+      - title: AI Platform - Blue Hive
+        content: AI-powered web application built with Meteor framework integrated with OpenAI services, demonstrating full-stack development with modern AI integration.
+        image: /images/projects/profile.png
+        featured:
+          name: View Project
+          link: "https://ai.bluehive.com/"
+        badges:
+          - "Meteor Framework"
+          - "OpenAI Integration"
+          - "AI/ML"
+          - "Full-Stack"
+        links:
+          - icon: fa fa-external-link-alt
+            url: "https://ai.bluehive.com/"
+
+      - title: Open Source Contributions
+        content: Active contributor to various open source projects on GitHub, demonstrating collaborative development skills and community involvement in software development.
+        image: /images/projects/converter.jpg
+        featured:
+          name: View GitHub
+          link: "https://github.com/martincarapia"
+        badges:
+          - "Open Source"
+          - "Git"
+          - "Collaboration"
+          - "Community"
         links:
           - icon: fab fa-github
-            url: "#"
+            url: "https://github.com/martincarapia"
 
   #Contact
   contact:
