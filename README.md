@@ -262,9 +262,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - Website: [https://martincarapia.github.io/](https://martincarapia.github.io/)
-- Email: your.email@example.com
+- Email: martin.carapia@outlook.com
 - GitHub: [@martincarapia](https://github.com/martincarapia)
-
----
-
-Built with ❤️ using [Hugo](https://gohugo.io/) and deployed on [GitHub Pages](https://pages.github.com/).
