@@ -91,7 +91,7 @@ params:
     content: |-
       Software developer with experience in web development, automation, and testing. Proven ability to deliver scalable code, resolve bugs, and improve user experience using Python, JavaScript, SQL, and modern frameworks. 
 
-      Currently working as a Software Developer at Medical Informatics Engineering and Software Engineer at Kushview, contributing to diverse projects from healthcare systems to responsive web applications. My experience spans from robotics programming with C++ to full-stack web development with modern frameworks like Hugo and TypeScript.
+      Currently working as a Software Developer at Medical Informatics Engineering, focusing on healthcare software systems. Previously served as Software Engineer at Kushview, developing responsive web applications. My experience spans from robotics programming with C++ to full-stack web development with modern frameworks like Hugo and TypeScript.
 
       I thrive in collaborative environments, whether leading development teams in high-pressure robotics competitions or working with distributed teams to deliver features across multiple environments.
     skills:
@@ -103,13 +103,18 @@ params:
         - "TypeScript" 
         - "C++"
         - "C"
+        - "Java"
         - "SQL"
         - "Hugo"
         - "HTML/CSS"
+        - "Bootstrap"
+        - "MeteorJS"
+        - "REST APIs"
+        - "MongoDB"
         - "Linux"
         - "Git"
-        - "WordPress"
-        - "REST APIs"
+        - "AWS"
+        - "GitHub Actions"
 
   # Experience
   experience:
@@ -147,17 +152,17 @@ params:
         companyUrl: "https://kushview.net"
         jobs:
           - name: "Software Engineer"
-            date: "February 2025 - Present"
+            date: "February 2022 - May 2024"
             content: |
               Developing and maintaining web applications with focus on performance and user experience optimization.
 
-              - Develop and maintain responsive web applications using Hugo, JavaScript, and TypeScript
-              - Collaborate with distributed teams to deliver features across multiple environments
-              - Improve user experience through performance tuning and iterative UI enhancements
-              - Integrate client feedback into deployments for higher satisfaction and product alignment
-              - Ensure smooth CI/CD workflows and contribute to continuous product improvement
+              - Developed and maintained responsive web applications using Hugo, JavaScript, and TypeScript
+              - Collaborated with distributed teams to deliver features and fix issues across multiple environments
+              - Improved user experience through performance tuning and iterative UI enhancements
+              - Integrated client feedback into deployments, leading to higher satisfaction and product alignment
+              - Ensured smooth CI/CD workflows and contributed to continuous product improvement
             info:
-              content: Web development and performance optimization - Fort Wayne (Hybrid)
+              content: Web development and performance optimization - Fort Wayne (Remote)
             featuredItems:
               fontAwesomeIcons:
                 - icon: fa-brands fa-js-square
@@ -165,79 +170,6 @@ params:
                   tooltip: JavaScript/TypeScript Development
                 - icon: fa-solid fa-globe
                   tooltip: Web Development
-              customIcons:
-                - icon: /fav.png
-                  url: "#"
-                  tooltip: Current Role
-
-      - company: "Snider Robotics"
-        companyUrl: "https://snidercs.org/"
-        jobs:
-          - name: "Lead Software Developer"
-            date: "January 2024 - April 2025"
-            content: |
-              Led software development for competitive robotics team, achieving state championship performance.
-
-              - Led software development for competition robotics using C++ with focus on real-time motor control and sensor integration
-              - Programmed low-end microcontroller for autonomous and operator-controlled tasks
-              - Collaborated with engineering, mechanical, and electrical sub-teams for system integration
-              - Developed and debugged code in high-pressure, time-sensitive competition environments
-              - Contributed to successful competition performance including state championship title
-            info:
-              content: Robotics software development and team leadership - Fort Wayne
-            featuredItems:
-              fontAwesomeIcons:
-                - icon: fa-solid fa-robot
-                  tooltip: Robotics Programming
-                - icon: fa-solid fa-trophy
-                  tooltip: State Championship Winners
-              customIcons:
-                - icon: /fav.png
-                  url: "#"
-                  tooltip: Leadership Role
-
-      - company: "Anthis Career Academy"
-        companyUrl: "https://careeracademy.fortwayneschools.org/"
-        jobs:
-          - name: "Software Developer"
-            date: "August 2023 - May 2025"
-            content: |
-              Comprehensive software development education with hands-on project experience and collaborative team work.
-
-              - Gained hands-on experience through project-based learning and collaborative group work
-              - Developed applications in self-paced, deadline-driven environment focusing on real-world problem solving
-              - Worked in agile-style teams to plan, build, and test software projects from concept to completion
-              - Strengthened technical communication, peer code review, and version control skills
-            info:
-              content: Educational program with practical development experience - Fort Wayne
-            featuredItems:
-              fontAwesomeIcons:
-                - icon: fa-solid fa-graduation-cap
-                  tooltip: Educational Development Program
-                - icon: fa-solid fa-users
-                  tooltip: Collaborative Team Projects
-
-      - company: "Papa Johns"
-        companyUrl: "https://jobs.papajohns.com/"
-        jobs:
-          - name: "Shift Manager"
-            date: "April 2023 - August 2024 | May 2025 - Oct 2025"
-            content: |
-              Leadership role managing operations in high-volume customer service environment, developing management and coordination skills.
-
-              - Lead solo shifts and coordinate in-store operations in high-volume, customer-facing environment
-              - Train and supervise team members to meet company standards for quality, efficiency, and service  
-              - Ensure adherence to food prep procedures, sanitation protocols, and shift readiness
-              - Manage phone orders, customer issues, and delivery coordination to maintain satisfaction and speed
-              - Support general manager in achieving team performance goals
-            info:
-              content: Operations management and team leadership - Fort Wayne
-            featuredItems:
-              fontAwesomeIcons:
-                - icon: fa-solid fa-users-cog
-                  tooltip: Team Management
-                - icon: fa-solid fa-clock
-                  tooltip: Operations Coordination
 
   # Education
   education:
@@ -279,14 +211,17 @@ params:
   achievements:
     enable: true
     items:
-      - title: Certified Associate in Python Programming
+      - title: Certified Associate in Python Programming (PCAP)
         content: Advanced Python certification showcasing intermediate to advanced Python programming capabilities.
-        image: /images/achievements/cert.png
+        image: /images/achievements/pcap-cert.png
+      - title: Certified Python Entry Level Programmer (PCEP)
+        content: Foundation certification demonstrating proficiency in Python programming fundamentals.
+        image: /images/achievements/pcep-cert.png
       - title: 1st Place SkillsUSA State Competition - Computer Programming
         content: Won first place in state-level SkillsUSA competition for computer programming, qualifying for national competition.
         image: /images/achievements/skillswinner.jpeg
-      - title: Indiana State Championship - FIRST Robotics
-        content: Led software development team to state championship victory in competitive robotics competition.
+      - title: Indiana State Championship & Rookie of The Year - FIRST Robotics
+        content: Led software development team to state championship victory and was recognized as Rookie of the Year at the Indiana State Championship for FIRST Robotics competition.
         image: /images/achievements/state.JPG
 
   # projects
