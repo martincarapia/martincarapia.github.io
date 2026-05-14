@@ -7,7 +7,28 @@ tags: []
 
 ## Who I Am
 
-Hello! I'm Martin Mizner Carapia, a remote software developer with experience in web development, automation, and testing. I have a proven ability to deliver scalable code, resolve bugs, and improve user experience using Python, JavaScript, SQL, and modern frameworks.
+Hello! I'm Martin Mizner Carapia, a Software Engineer passionate about software development, automation, and problem-solving. I thrive on finding innovative ways to streamline processes and enhance efficiency — why spend five minutes doing something manually when you can invest the time to automate it?
+
+## Experience
+
+### Medical Informatics Engineering (MIE)
+
+- Software Engineer — June 2025 – Present
+- Software Development Intern — March 2024 – June 2025
+
+Fort Wayne, Indiana
+
+### Kushview
+
+- Software Engineer — February 2022 – March 2024
+
+Fort Wayne, Indiana
+
+## Education
+
+### Ivy Tech Community College Fort Wayne & Warsaw
+
+Associate of Science, Computer Software Engineering — May 2022 – March 2025
 
 ## Technical Skills
 
@@ -25,15 +46,26 @@ Hello! I'm Martin Mizner Carapia, a remote software developer with experience in
 
 **Cloud:** AWS, Railway, Cloudflare Pages
 
+**Top Skills:** Software Design, Software Infrastructure, OpenAI API Integration
+
+## Certifications
+
+- Certified Entry-Level Python Programmer
+- Certified Associate in Python Programming
+- Promoting Teamwork and Collaboration
+- Soft Skills Courseware Certificate of Completion
+- Conveying Professionalism
+- Thinking Critically and Solving Problems
+
 ## Languages
 
-- English
-- Spanish
+- English (Native or Bilingual)
+- Spanish (Native or Bilingual)
 
 ## Contact
 
 Feel free to reach out if you'd like to connect or collaborate on projects.
 
-- Email: martin.carapia@outlook.com
+- Email: [martin.carapia@outlook.com](mailto:martin.carapia@outlook.com)
 - LinkedIn: [linkedin.com/in/mcarapia](https://linkedin.com/in/mcarapia)
 - Website: [martincarapia.github.io](https://martincarapia.github.io)
